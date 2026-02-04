@@ -1,5 +1,4 @@
-        p                                                            bot.py
-import telebot
+pimport telebot
 import requests
 import json
 import os
