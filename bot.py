@@ -1,4 +1,4 @@
-  GNU nano 8.7                                                                           bot.py
+        p                                                            bot.py
 import telebot
 import requests
 import json
