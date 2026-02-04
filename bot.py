@@ -1,4 +1,4 @@
-pimport telebot
+import telebot
 import requests
 import json
 import os
